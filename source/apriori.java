@@ -115,7 +115,7 @@ public class Apriori extends Observable {
     {        
         // setting transafile
         if (args.length!=0) transaFile = args[0];
-        else transaFile = "chess.dat"; // default
+        else transaFile = "data.txt"; // default
     	
     	// setting minsupport
     	if (args.length>=2) minSup=(Double.valueOf(args[1]).doubleValue());    	
