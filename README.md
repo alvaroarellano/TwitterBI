@@ -35,6 +35,9 @@ IDE: Eclipse
 Los pasos para poner en marcha nuestro proyecto son los siguientes:
 
 1.- Debemos de contar con un DATASET de prueba, similar al que se encuentra en la carpeta "input"
+
 2.- En nuestro IDE de programación, crear un nuevo proyecto.
+
 3.- En nuestro proyecto creado, importar la libreria "weka.jar" que se encuentra en la carpeta "lib"
+
 4.- Crear una clase java llamada "AprioriOutput", copiar y pegar el código de la clase "AprioriOutput.java" que se encuentra en la        carpeta "src"
